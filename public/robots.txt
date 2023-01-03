@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Sitemap: https://www.pornhub.com/sitemap.xml
+Disallow: .htaccess
+Disallow: slim.php
+Disallow: /static
